@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "clusters_curso_nbdev"
+  site-url: "https://msalazarcgeo.github.io/clusters_curso_nbdev"
+  description: "Es un ejemplo para tener dos modulos haciendo uso de nbdev."
+  repo-branch: main
+  repo-url: "https://github.com/msalazarcgeo/clusters_curso_nbdev"
